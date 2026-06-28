@@ -21,7 +21,7 @@ Deadline Ghost is an AI-powered productivity companion with a shifting personali
 ## Tech Stack
 
 - **Backend:** Node.js + Express
-- **AI:** Google Gemini 2.0 Flash via Google AI Studio API
+- **AI:** Google Gemini 2.5 Flash via Google AI Studio API
 - **Frontend:** Vanilla HTML/CSS/JS
 - **Deployment:** Google Cloud Run
 
